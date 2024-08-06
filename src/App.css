@@ -148,4 +148,25 @@
   font-size: 17px;
   padding: 7px;
 }
+@media screen and (max-width: 990px)
+{
+  .card
+  {
+    /* display: none; */
+  }
+}
+@media screen and (max-width: 800px)
+{
+  .card
+  {
+    width: 50vw;
+  }
+}
+@media screen and (max-width: 750px)
+{
+  .card
+  {
+    width: 70vw;
+  }
+}
 
